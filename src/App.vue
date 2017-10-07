@@ -24,9 +24,7 @@ import AppServerList from './components/Server/AppServerList.vue';
 import AppServerDetails from './components/Server/AppServerDetails.vue';
 
 export default {
-  components: {
-    AppHeader, AppServerList, AppServerDetails, AppFooter
-  }
+  components: { AppHeader, AppServerList, AppServerDetails, AppFooter }
 }
 </script>
 
